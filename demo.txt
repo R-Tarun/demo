@@ -1,1 +1,3 @@
-Hi this is a text from demoapp
+Hi this is a text from Demoapp 
+This is a new line
+
